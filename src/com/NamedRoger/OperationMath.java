@@ -28,4 +28,8 @@ public class OperationMath {
     public int Mod () {
         return this.num1%this.num2;
     }
+
+    public double Suma (double num ) {
+      return num + 10.2;
+    }
 }
